@@ -27,7 +27,7 @@ const experiences = [
 
 export default function Experience() {
   return (
-    <section className="relative z-20 bg-[#121212] py-24 px-6 lg:px-24">
+    <section id="experience" className="relative z-20 bg-[#121212] py-24 px-6 lg:px-24">
       <div className="max-w-4xl mx-auto">
         <div className="mb-16">
           <h2 className="text-3xl md:text-5xl font-black text-white mix-blend-difference mb-4">
