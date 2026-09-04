@@ -27,8 +27,8 @@ export default function Contact() {
     {
       name: 'LinkedIn',
       icon: Linkedin,
-      href: 'https://linkedin.com',
-      value: 'Avishek Chakraborty',
+      href: 'https://www.linkedin.com/in/avishek240795/',
+      value: 'in/avishek240795',
     },
     {
       name: 'GitHub',
