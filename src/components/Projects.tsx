@@ -9,7 +9,7 @@ const projects = [
     problemSolved: "Engineers spent hundreds of manual hours drafting custom SAP ABAP logic, creating development bottlenecks across enterprise ERP workflows.",
     techStack: ["Generative AI", "GPT-4", "SAP ABAP", "Prompt Engineering", "Python"],
     impact: "Cut development time by 60% and delivered 90% overall efficiency gains in SAP codebase generation.",
-    githubUrl: "https://github.com",
+    githubUrl: "https://github.com/Avi0008",
     liveUrl: "https://pwc.com",
   },
   {
@@ -19,7 +19,7 @@ const projects = [
     problemSolved: "Complex Salesforce integrations required high technical overhead and lengthened sprint cycles for custom APEX class generation.",
     techStack: ["Salesforce APEX", "OpenAI API", "LangChain", "TypeScript"],
     impact: "Accelerated developer coding timelines by 95%, enabling same-day feature deployment for CRM modules.",
-    githubUrl: "https://github.com",
+    githubUrl: "https://github.com/Avi0008",
     liveUrl: "https://pwc.com",
   },
   {
@@ -29,7 +29,7 @@ const projects = [
     problemSolved: "Manual drafting of complex FSD, TSD, BRD, and Requirements Traceability Matrices consumed valuable strategic engineering bandwidth.",
     techStack: ["RTM Generator GPT", "RAG Pipeline", "Vector DB", "Agile Automation"],
     impact: "Saved 1,000+ hours of manual technical documentation effort while standardizing compliance audit readiness.",
-    githubUrl: "https://github.com",
+    githubUrl: "https://github.com/Avi0008",
     liveUrl: "https://pwc.com",
   },
   {
@@ -39,7 +39,7 @@ const projects = [
     problemSolved: "Traditional digital SEO audits relied on disconnected tools, delaying real-time data insights and competitive keyword adaptation.",
     techStack: ["Machine Learning", "SEO Analytics", "Python", "Next.js", "Tailwind CSS"],
     impact: "Boosted digital organic reach by 45% and reduced automated analysis latency from days to under 5 seconds.",
-    githubUrl: "https://github.com",
+    githubUrl: "https://github.com/Avi0008",
     liveUrl: "https://pwc.com",
   }
 ]

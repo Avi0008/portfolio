@@ -33,8 +33,8 @@ export default function Contact() {
     {
       name: 'GitHub',
       icon: Github,
-      href: 'https://github.com',
-      value: '@avishek',
+      href: 'https://github.com/Avi0008',
+      value: '@Avi0008',
     },
   ]
 
